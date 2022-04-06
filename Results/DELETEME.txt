@@ -1,0 +1,5 @@
+Limiteds scraped from keywords will have
+a new text file created, with all the ids
+of the keyword
+
+You can delete me
