@@ -10,5 +10,4 @@ Helps you gather a bunch of ROBLOX limiteds (gucci, vans) into IDS to blacklist 
 
 # Example 
 
-![gif](https://imgur.com/a/j4BuLBd.gif)
-
+![2022-04-06 18-58-06](https://user-images.githubusercontent.com/62220165/162041248-d87ac380-7586-4ccb-9659-ef75e125eea1.gif)
